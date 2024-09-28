@@ -1,3 +1,3 @@
-# my-2-indicators-tradingview
+#Homework_1
 
 hello
